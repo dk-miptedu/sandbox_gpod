@@ -4,4 +4,4 @@ matplotlib
 numpy
 huggingface_hub
 ipywidgets
-dask[complete]
+#dask[complete]
